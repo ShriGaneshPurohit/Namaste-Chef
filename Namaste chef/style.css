@@ -1,0 +1,31 @@
+
+
+  
+
+    
+<div class="container px-7 py-7 mb-2 my-5">
+
+}
+.card img{ 
+
+    border-radius: 25px;
+   padding: 20px; 
+   display: inline-block;
+   
+}
+
+.food1{
+    display: flex;
+    border: 2px solid black;
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
+.rounded-circle{
+    height: 50px;
+    width: 50px;
+    color: green;
+    text-decoration: none;
+    background-color: green;
+}
+
